@@ -14,3 +14,17 @@ html,body{
 
     
 }
+
+.feature{
+    color: #fff;
+}
+.feature ul{
+    list-style: none;
+    padding-left: 2rem;
+}
+.feature li{
+    padding-left: 2rem;
+    background-image: url(../images/check.svg);
+    background-repeat: no-repeat;
+    line-height: 2.5rem;
+}
