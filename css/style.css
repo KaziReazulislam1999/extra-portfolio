@@ -28,3 +28,22 @@ html,body{
     background-repeat: no-repeat;
     line-height: 2.5rem;
 }
+.icon{
+    color: #fff;
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+   justify-content: center;
+   align-items:center;
+   font-size: 1.75rem;
+   display: inline-flex;
+  }
+  #icons{
+      background-color: #fff;
+  }
+  .gallery-img-items img{
+      border-radius: 5%;
+  }
+  .gallery{
+      background-color: #e9e5e5;
+  }
